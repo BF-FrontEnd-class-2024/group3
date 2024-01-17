@@ -1,4 +1,3 @@
-
 - created a new issue on my class home repo group3 : workflows : intro
 - cloned my group repo.
 - created a new branch samuelGroup.
