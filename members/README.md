@@ -1,3 +1,7 @@
+
+=======
+# Group3-Intro
+
 - created a new issue on my class home repo group3 : workflows : intro
 - cloned my group repo.
 - created a new branch samuelGroup.
@@ -19,3 +23,10 @@
 - npm run spell-check
 - npm run lint:ls
 - npm run lint:md
+
+=======
+=======
+# Hi we are group3
+
+- [Ahlam](./members/ahlam.md)
+
