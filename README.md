@@ -1,3 +1,4 @@
+=======
 # Group 3
 
 This project involves using a Markdown template repository to create a
