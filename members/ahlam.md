@@ -2,11 +2,11 @@
 
 i'm from Algeria 🌏
 
-🎓Education: 
-| Diploma | Field | Year | 
+🎓Education:
+| Diploma | Field | Year |
 |----------|:-------------:|------:|
-|Master degree | Accounting and Audit | 2019 | 
-| License degree | Accounting and Finance | 2017 | 
+|Master degree | Accounting and Audit | 2019 |
+| License degree | Accounting and Finance | 2017 |
 | | | |
 
  Hobbies 😍😍 :
