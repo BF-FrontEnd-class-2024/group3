@@ -1,3 +1,6 @@
+=======
+# Group 3
+
 This project involves using a Markdown template repository to create a
 collaborative get-to-know-you repository for a study group. Each member will
 contribute one markdown file to the repository, and the emphasis is on fostering
