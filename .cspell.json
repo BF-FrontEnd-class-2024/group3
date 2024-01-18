@@ -2,6 +2,19 @@
   "language": "en",
   "words": ["HackYourFutureBelgium", "HackYourFuture", "Nepo","Evere", 
 "Ahlam", "Namrata"],
+=======
+  "words": [
+    "HackYourFutureBelgium",
+    "HackYourFuture",
+    "Nepo",
+    "Boahen",
+    "bxamwell@gmail.com",
+    "compeleted",
+    "Travelling",
+    "Boudali",
+    "Ahlam",
+    "Namrata"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
